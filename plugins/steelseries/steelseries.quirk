@@ -1,5 +1,0 @@
-# Rival 100
-[USB\VID_1038&PID_1702]
-Plugin = steelseries
-Summary = An optical gaming mouse
-Icon = input-mouse
