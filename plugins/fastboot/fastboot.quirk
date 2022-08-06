@@ -1,3 +1,0 @@
-# All fastboot devices
-[USB\CLASS_FF&SUBCLASS_42&PROT_03]
-Plugin = fastboot
